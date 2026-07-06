@@ -9,27 +9,91 @@
  * };
  */
 class Solution {
-    void insert(vector<int> v,ListNode* &temp){
-       for(int i=0;i<v.size();i++){
-        temp->val=v[i];
-        temp=temp->next;
-       }
+    // void insert(vector<int> v,ListNode* &temp){
+    //    for(int i=0;i<v.size();i++){
+    //     temp->val=v[i];
+    //     temp=temp->next;
+    //    }
+    // }
+
+    ListNode* findmid(ListNode* head){
+        ListNode* slow=head;
+        ListNode* fast=head->next;
+
+        while(fast!=NULL && fast->next!= NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        return slow;
+    }
+    ListNode* merge(ListNode* left,ListNode* right){
+        if(left==NULL)
+        return right;
+
+        if(right==NULL)
+        return left;
+
+        ListNode* ans=new ListNode(-1);
+        ListNode* temp=ans;
+
+        while(left!=NULL && right!=NULL){
+            if(left->val<right->val){
+                temp->next=left;
+                temp=left;
+                left=left->next;
+            }
+            else{
+                temp->next=right;
+                temp=right;
+                right=right->next;
+            }
+        }
+        while(left!=NULL){
+            temp->next=left;
+            temp=left;
+            left=left->next;
+        }
+        while(right!=NULL){
+            temp->next=right;
+            temp=right;
+            right=right->next;
+        }
+        ans=ans->next;
+        return ans;
     }
    
 public:
     ListNode* sortList(ListNode* head) {
-       vector<int> v;
-        ListNode* temp=head;
-        while(temp!=NULL){
-           v.push_back(temp->val);
-            temp=temp->next;
-        }
+    //    vector<int> v;
+    //     ListNode* temp=head;
+    //     while(temp!=NULL){
+    //        v.push_back(temp->val);
+    //         temp=temp->next;
+    //     }
 
-        sort(v.begin(),v.end());
+    //     sort(v.begin(),v.end());
 
-        temp=head;
-        insert(v,temp);
+    //     temp=head;
+    //     insert(v,temp);
 
-        return head;
+    //     return head;
+
+    if(head==NULL || head->next==NULL)
+    return head;
+
+    ListNode* mid=findmid(head);
+
+    ListNode* left=head;
+    ListNode* right=mid->next;
+
+    mid->next=NULL;
+     
+    //recursive calls to sort lefta nd right part
+    left= sortList(left);
+    right=sortList(right);
+    //merge both linked list
+    ListNode* result=merge(left,right);
+
+    return result;
     }
 };
