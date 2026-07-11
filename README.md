@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ayushmann001/leetcode/tree/master/0148-sort-list) |
+| [0344-reverse-string](https://github.com/Ayushmann001/leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Ayushmann001/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
