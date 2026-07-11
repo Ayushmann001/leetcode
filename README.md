@@ -14,6 +14,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayushmann001/leetcode/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Hash Table
 |  |
@@ -45,5 +46,6 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayushmann001/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Ayushmann001/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
