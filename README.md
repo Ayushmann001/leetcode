@@ -46,12 +46,14 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayushmann001/leetcode/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushmann001/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayushmann001/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ayushmann001/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Ayushmann001/leetcode/tree/master/0344-reverse-string) |
 ## Monotonic Stack
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ayushmann001/leetcode/tree/master/0155-min-stack) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ayushmann001/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
