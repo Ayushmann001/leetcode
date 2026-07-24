@@ -4,12 +4,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ayushmann001/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/Ayushmann001/leetcode/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ayushmann001/leetcode/tree/master/0039-combination-sum) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
