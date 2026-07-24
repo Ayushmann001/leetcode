@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0002-add-two-numbers) |
+| [0371-sum-of-two-integers](https://github.com/Ayushmann001/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Ayushmann001/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
