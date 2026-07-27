@@ -9,44 +9,46 @@
  * };
  */
 class Solution {
-    void insert(ListNode* &head,ListNode* &tail,int val){
-        ListNode* temp=new ListNode(val);
-        if(head==NULL){
-            head=temp;
-            tail=temp;
-            return;
-        }
-        else{
-           tail->next=temp;
-           tail=temp;
-        }
-    }
+    // void insert(ListNode* &head,ListNode* &tail,int val){
+    //     ListNode* temp=new ListNode(val);
+    //     if(head==NULL){
+    //         head=temp;
+    //         tail=temp;
+    //         return;
+    //     }
+    //     else{
+    //        tail->next=temp;
+    //        tail=temp;
+    //     }
+    // }
     
+   
    
     ListNode* multiply(ListNode* head){
         ListNode* temp1=head;
-        ListNode* anshead=NULL;
-        ListNode* anstail=NULL;
+        ListNode* temp=NULL;
+       
         
         int carry=0;
         while(temp1!=NULL){
             int x=temp1->val*2+carry;
             carry=x/10;
             int digit=x%10;
-            insert(anshead,anstail,digit);
+            temp1->val=digit;
+            temp=temp1;
+            temp1=temp1->next;
            
 
             
-            temp1=temp1->next;
+           
             
 
         }
         if(carry!=0){
-           insert(anshead,anstail,carry);
-
+          temp->next=new ListNode(carry);
         }
 
-        return anshead;
+        return head;
     }
     ListNode* reverse(ListNode* &head){
         if(head->next==NULL)
