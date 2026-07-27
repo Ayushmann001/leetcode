@@ -9,12 +9,14 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Ayushmann001/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/Ayushmann001/leetcode/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ayushmann001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0002-add-two-numbers) |
 | [0371-sum-of-two-integers](https://github.com/Ayushmann001/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ayushmann001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -23,6 +25,7 @@
 | [0155-min-stack](https://github.com/Ayushmann001/leetcode/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ayushmann001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
