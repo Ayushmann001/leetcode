@@ -11,7 +11,7 @@ public:
     }
     
     bool enQueue(int value) {
-        if((front==0 && rear==size-1)||(rear==(front-1+size)%(size)))  // condn of full
+        if((front==0 && rear==size-1)||(rear==(front-1)%(size)))  // condn of full
         return false;
         else if(front==-1){ //first element to push
             rear=front=0;
@@ -69,7 +69,7 @@ public:
     }
     
     bool isFull() {
-        if((front==0 && rear==size-1)||(rear==(front-1+size)%(size)))
+        if((front==0 && rear==size-1)||(rear==(front-1)%(size)))
         return true;
 
         else
