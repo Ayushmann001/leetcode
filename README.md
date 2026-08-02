@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Ayushmann001/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ayushmann001/leetcode/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/Ayushmann001/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -67,6 +68,7 @@
 | [0014-longest-common-prefix](https://github.com/Ayushmann001/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Ayushmann001/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ayushmann001/leetcode/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/Ayushmann001/leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushmann001/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Ayushmann001/leetcode/tree/master/0622-design-circular-queue) |
