@@ -62,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Ayushmann001/leetcode/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Ayushmann001/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ayushmann001/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ayushmann001/leetcode/tree/master/0242-valid-anagram) |
@@ -77,6 +78,7 @@
 | [0031-next-permutation](https://github.com/Ayushmann001/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Ayushmann001/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ayushmann001/leetcode/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Ayushmann001/leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Ayushmann001/leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushmann001/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/Ayushmann001/leetcode/tree/master/0169-majority-element) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ayushmann001/leetcode/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Ayushmann001/leetcode/tree/master/0047-permutations-ii) |
 ## Recursion
 |  |
 | ------- |
