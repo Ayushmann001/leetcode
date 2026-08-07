@@ -48,6 +48,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayushmann001/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushmann001/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Ayushmann001/leetcode/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/Ayushmann001/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ayushmann001/leetcode/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/Ayushmann001/leetcode/tree/master/0344-reverse-string) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayushmann001/leetcode/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Ayushmann001/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Ayushmann001/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ayushmann001/leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Ayushmann001/leetcode/tree/master/0066-plus-one) |
