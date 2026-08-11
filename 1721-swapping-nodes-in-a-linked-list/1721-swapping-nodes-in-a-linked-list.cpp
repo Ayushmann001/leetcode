@@ -86,10 +86,11 @@ public:
         }
 
         else{
-        if(prev2 == NULL)
+         if(prev2 == NULL)
         head = curr1;
-    else
+         else
         prev2->next = curr1;
+        
         if(prev1 == NULL)
         head = curr2;
          else
