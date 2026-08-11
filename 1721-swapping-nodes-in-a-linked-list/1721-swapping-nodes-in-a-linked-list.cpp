@@ -60,45 +60,46 @@ public:
         if (curr1 == curr2)
         return head;
 
-        if(curr1->next==curr2){
-            if(prev1==NULL){
-            head=curr2;
-            curr2->next = curr1;
-            curr1->next = next2;
-            }
-            else{
-            prev1->next=curr2;
-            curr2->next=curr1;
-            curr1->next=next2;
-            }
-        }
-        else if(curr2->next==curr1){
-             if(prev1==NULL){
-            head=curr1;
-            curr1->next = curr2;
-            curr2->next = next1;
-             }
-            else{
-            prev2->next=curr1;
-            curr1->next=curr2;
-            curr2->next=next1;
-            }
-        }
+        // if(curr1->next==curr2){
+        //     if(prev1==NULL){
+        //     head=curr2;
+        //     curr2->next = curr1;
+        //     curr1->next = next2;
+        //     }
+        //     else{
+        //     prev1->next=curr2;
+        //     curr2->next=curr1;
+        //     curr1->next=next2;
+        //     }
+        // }
+        // else if(curr2->next==curr1){
+        //      if(prev1==NULL){
+        //     head=curr1;
+        //     curr1->next = curr2;
+        //     curr2->next = next1;
+        //      }
+        //     else{
+        //     prev2->next=curr1;
+        //     curr1->next=curr2;
+        //     curr2->next=next1;
+        //     }
+        // }
 
-        else{
-         if(prev2 == NULL)
-        head = curr1;
-         else
-        prev2->next = curr1;
-        
-        if(prev1 == NULL)
-        head = curr2;
-         else
-        prev1->next = curr2;
+        // else{
+        //  if(prev2 == NULL)
+        // head = curr1;
+        //  else
+        // prev2->next = curr1;
 
-        curr2->next=next1;
-        curr1->next=next2;
-        }
+        // if(prev1 == NULL)
+        // head = curr2;
+        //  else
+        // prev1->next = curr2;
+
+        // curr2->next=next1;
+        // curr1->next=next2;
+        // }
+        swap(curr1->val,curr2->val);
         return head;
     }
 };
