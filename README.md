@@ -9,6 +9,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Ayushmann001/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayushmann001/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Ayushmann001/leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayushmann001/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ayushmann001/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Ayushmann001/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ayushmann001/leetcode/tree/master/0148-sort-list) |
@@ -57,6 +58,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushmann001/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ayushmann001/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Ayushmann001/leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayushmann001/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/Ayushmann001/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ayushmann001/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayushmann001/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
