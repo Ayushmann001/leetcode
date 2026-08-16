@@ -99,6 +99,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ayushmann001/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushmann001/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushmann001/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/Ayushmann001/leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Ayushmann001/leetcode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Ayushmann001/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Ayushmann001/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -206,4 +207,8 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Ayushmann001/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushmann001/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Ayushmann001/leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
