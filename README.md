@@ -65,6 +65,7 @@
 | [0148-sort-list](https://github.com/Ayushmann001/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayushmann001/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/Ayushmann001/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ayushmann001/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ayushmann001/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -118,6 +119,7 @@
 | [0067-add-binary](https://github.com/Ayushmann001/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Ayushmann001/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ayushmann001/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ayushmann001/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
