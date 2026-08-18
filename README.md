@@ -40,6 +40,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushmann001/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Ayushmann001/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Ayushmann001/leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Ayushmann001/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ayushmann001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ayushmann001/leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Ayushmann001/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Ayushmann001/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ayushmann001/leetcode/tree/master/0641-design-circular-deque) |
 ## Trie
@@ -168,6 +170,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ayushmann001/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Ayushmann001/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Ayushmann001/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ayushmann001/leetcode/tree/master/0641-design-circular-deque) |
