@@ -104,6 +104,7 @@
 | [0169-majority-element](https://github.com/Ayushmann001/leetcode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Ayushmann001/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Ayushmann001/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Ayushmann001/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Ayushmann001/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ayushmann001/leetcode/tree/master/0641-design-circular-deque) |
@@ -166,6 +167,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ayushmann001/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Ayushmann001/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ayushmann001/leetcode/tree/master/0641-design-circular-deque) |
 ## Dynamic Programming
@@ -213,4 +215,20 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Ayushmann001/leetcode/tree/master/0134-gas-station) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ayushmann001/leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ayushmann001/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ayushmann001/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ayushmann001/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
