@@ -108,6 +108,7 @@
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Ayushmann001/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ayushmann001/leetcode/tree/master/0641-design-circular-deque) |
+| [0643-maximum-average-subarray-i](https://github.com/Ayushmann001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Ayushmann001/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ayushmann001/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Ayushmann001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
