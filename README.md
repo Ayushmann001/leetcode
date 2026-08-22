@@ -116,6 +116,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Ayushmann001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Ayushmann001/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushmann001/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## String
 |  |
 | ------- |
