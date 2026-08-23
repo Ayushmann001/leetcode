@@ -24,7 +24,7 @@ public:
     //     if(root==NULL)
     //     return true;
 
-    //     if(abs(height(root->left)-height(root->right))>1)
+    //     if(abs(height(root->left)-height(root->right))>1)    //codestorymik
     //     return false;
 
     //     return isBalanced(root->left) && isBalanced(root->right);
@@ -35,7 +35,7 @@ public:
     //     if(root==NULL)
     //     return true;
 
-    //     bool left=isBalanced(root->left);
+    //     bool left=isBalanced(root->left);                   //lovebabbar app1 o(n2)
     //     bool right=isBalanced(root->right);
 
     //     bool diff=abs(height(root->left)-height(root->right))<=1;
@@ -45,13 +45,13 @@ public:
     //     else
     //     return false;
 
-    pair<bool,int>isbalancedfast(TreeNode* root){
+    pair<bool,int>isbalancedfast(TreeNode* root){ //same but in O(n) in it no need of height func.
         if(root==NULL){
             pair<bool,int> p =make_pair(true,0);
             return p;
         }
-        pair<int,int>left=isbalancedfast(root->left);
-        pair<int,int>right=isbalancedfast(root->right);
+        pair<bool,int>left=isbalancedfast(root->left);
+        pair<bool,int>right=isbalancedfast(root->right);
 
         bool leftans=left.first;
         bool rightans=right.first;
