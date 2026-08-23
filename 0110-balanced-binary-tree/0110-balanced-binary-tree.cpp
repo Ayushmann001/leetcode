@@ -20,14 +20,30 @@ class Solution {
         return max(left,right)+1;
     }
 public:
-    bool isBalanced(TreeNode* root) {
+    // bool isBalanced(TreeNode* root) {
+    //     if(root==NULL)
+    //     return true;
+
+    //     if(abs(height(root->left)-height(root->right))>1)
+    //     return false;
+
+    //     return isBalanced(root->left) && isBalanced(root->right);
+        
+    // }
+
+      bool isBalanced(TreeNode* root) {
         if(root==NULL)
         return true;
 
-        if(abs(height(root->left)-height(root->right))>1)
-        return false;
+        bool left=isBalanced(root->left);
+        bool right=isBalanced(root->right);
 
-        return isBalanced(root->left) && isBalanced(root->right);
+        bool diff=abs(height(root->left)-height(root->right))<=1;
+
+        if(left && right && diff)
+        return true;
+        else
+        return false;
         
     }
 };
