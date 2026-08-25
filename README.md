@@ -58,6 +58,7 @@
 | [0169-majority-element](https://github.com/Ayushmann001/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ayushmann001/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ayushmann001/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0877-stone-game](https://github.com/Ayushmann001/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushmann001/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ayushmann001/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
