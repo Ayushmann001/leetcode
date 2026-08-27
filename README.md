@@ -48,6 +48,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Ayushmann001/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Ayushmann001/leetcode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayushmann001/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ayushmann001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
@@ -118,6 +119,7 @@
 | [0622-design-circular-queue](https://github.com/Ayushmann001/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ayushmann001/leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushmann001/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/Ayushmann001/leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Ayushmann001/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushmann001/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -141,6 +143,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushmann001/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Ayushmann001/leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
