@@ -46,6 +46,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Ayushmann001/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushmann001/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Ayushmann001/leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushmann001/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -138,6 +139,7 @@
 | [0242-valid-anagram](https://github.com/Ayushmann001/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ayushmann001/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayushmann001/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/Ayushmann001/leetcode/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayushmann001/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayushmann001/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Monotonic Stack
@@ -175,6 +177,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Ayushmann001/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayushmann001/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Ayushmann001/leetcode/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/Ayushmann001/leetcode/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
