@@ -28,6 +28,7 @@
 | [0066-plus-one](https://github.com/Ayushmann001/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ayushmann001/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Ayushmann001/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Ayushmann001/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -61,6 +62,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayushmann001/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ayushmann001/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ayushmann001/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushmann001/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -93,6 +95,7 @@
 | [0148-sort-list](https://github.com/Ayushmann001/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ayushmann001/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ayushmann001/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Merge Sort
 |  |
@@ -117,6 +120,7 @@
 | [0228-summary-ranges](https://github.com/Ayushmann001/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Ayushmann001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ayushmann001/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushmann001/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Ayushmann001/leetcode/tree/master/0622-design-circular-queue) |
@@ -164,6 +168,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ayushmann001/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Backtracking
 |  |
@@ -182,6 +187,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ayushmann001/leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Ayushmann001/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
