@@ -71,6 +71,7 @@
 | [0242-valid-anagram](https://github.com/Ayushmann001/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ayushmann001/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushmann001/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -144,6 +145,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushmann001/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushmann001/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ayushmann001/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushmann001/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushmann001/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ayushmann001/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -206,6 +208,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Ayushmann001/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Ayushmann001/leetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Ayushmann001/leetcode/tree/master/0394-decode-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ayushmann001/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -354,4 +357,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushmann001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushmann001/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ayushmann001/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
