@@ -36,6 +36,7 @@
 | [0836-rectangle-overlap](https://github.com/Ayushmann001/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ayushmann001/leetcode/tree/master/0877-stone-game) |
 | [1518-water-bottles](https://github.com/Ayushmann001/leetcode/tree/master/1518-water-bottles) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayushmann001/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ayushmann001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayushmann001/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Ayushmann001/leetcode/tree/master/3870-count-commas-in-range) |
@@ -242,6 +243,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushmann001/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Ayushmann001/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayushmann001/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayushmann001/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayushmann001/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
 |  |
@@ -275,6 +277,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ayushmann001/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayushmann001/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Ayushmann001/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ayushmann001/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
@@ -375,4 +378,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ayushmann001/leetcode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayushmann001/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
