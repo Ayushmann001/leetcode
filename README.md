@@ -324,6 +324,7 @@
 | [0110-balanced-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushmann001/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ayushmann001/leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -337,6 +338,7 @@
 | [0110-balanced-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushmann001/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushmann001/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -350,6 +352,7 @@
 | [0110-balanced-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushmann001/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ayushmann001/leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -386,4 +389,12 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayushmann001/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
