@@ -180,6 +180,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushmann001/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushmann001/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayushmann001/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ayushmann001/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 | [0844-backspace-string-compare](https://github.com/Ayushmann001/leetcode/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/Ayushmann001/leetcode/tree/master/1518-water-bottles) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushmann001/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ayushmann001/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
