@@ -77,6 +77,7 @@
 | [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayushmann001/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayushmann001/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayushmann001/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushmann001/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushmann001/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -158,6 +159,7 @@
 | [0877-stone-game](https://github.com/Ayushmann001/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushmann001/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayushmann001/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushmann001/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayushmann001/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushmann001/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -212,6 +214,7 @@
 | [0035-search-insert-position](https://github.com/Ayushmann001/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayushmann001/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayushmann001/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
@@ -292,6 +295,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ayushmann001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayushmann001/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayushmann001/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Ayushmann001/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ayushmann001/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
@@ -310,6 +314,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ayushmann001/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushmann001/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayushmann001/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayushmann001/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
 |  |
