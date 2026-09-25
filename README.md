@@ -349,6 +349,7 @@
 | [0337-house-robber-iii](https://github.com/Ayushmann001/leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushmann001/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ayushmann001/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushmann001/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayushmann001/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -385,6 +386,7 @@
 | [0337-house-robber-iii](https://github.com/Ayushmann001/leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushmann001/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ayushmann001/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushmann001/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayushmann001/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -431,4 +433,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
