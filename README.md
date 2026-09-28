@@ -64,6 +64,7 @@
 | [0739-daily-temperatures](https://github.com/Ayushmann001/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Ayushmann001/leetcode/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayushmann001/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushmann001/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ayushmann001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -164,6 +165,7 @@
 | [0835-image-overlap](https://github.com/Ayushmann001/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ayushmann001/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayushmann001/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayushmann001/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushmann001/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -203,6 +205,7 @@
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushmann001/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ayushmann001/leetcode/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -361,6 +364,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushmann001/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ayushmann001/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushmann001/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -411,6 +415,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushmann001/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ayushmann001/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushmann001/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -471,5 +476,6 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushmann001/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
