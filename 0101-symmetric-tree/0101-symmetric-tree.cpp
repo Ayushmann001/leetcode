@@ -1,22 +1,39 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    bool isSymmetric(TreeNode* root) {
+    bool mirror(TreeNode*  p,TreeNode* q){
+        if (p==NULL && q==NULL)
+        return true;
+        if (p==NULL && q!=NULL)
+        return false;
+        if (p!=NULL && q==NULL)
+        return false;
+       
         
-        if(root==NULL) return true; //Tree is empty
+       
+            bool left=mirror(p->left,q->right);
+            bool right=mirror(p->right,q->left);
+            bool value=p->val==q->val;
+        if(left&&right&&value)
+        return true;
+        else
+        return false;
         
-        return isSymmetricTest(root->left,root->right);
     }
-    
-    bool isSymmetricTest(TreeNode* p , TreeNode* q){
-        if(p == NULL && q == NULL) //left & right node is NULL 
-            return true; 
+    bool isSymmetric(TreeNode* root) {
+        if(root==NULL)
+        return true;
+        return  mirror(root->left,root->right);
         
-        else if(p == NULL || q == NULL) //one of them is Not NULL
-            return false; 
-        
-        else if(p->val!=q->val) 
-            return false;
-        
-        return isSymmetricTest(p->left,q->right) && isSymmetricTest(p->right,q->left); //comparing left subtree's left child with right subtree's right child --AND-- comparing left subtree's right child with right subtree's left child
     }
 };
