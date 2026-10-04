@@ -63,6 +63,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushmann001/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Ayushmann001/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Ayushmann001/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Ayushmann001/leetcode/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0897-increasing-order-search-tree) |
@@ -196,6 +197,7 @@
 | [0344-reverse-string](https://github.com/Ayushmann001/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayushmann001/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Ayushmann001/leetcode/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Ayushmann001/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Ayushmann001/leetcode/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayushmann001/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayushmann001/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -275,6 +277,7 @@
 | [0115-distinct-subsequences](https://github.com/Ayushmann001/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushmann001/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0337-house-robber-iii](https://github.com/Ayushmann001/leetcode/tree/master/0337-house-robber-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Ayushmann001/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Ayushmann001/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayushmann001/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayushmann001/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -327,6 +330,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Ayushmann001/leetcode/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/Ayushmann001/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayushmann001/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sliding Window
@@ -458,6 +462,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Ayushmann001/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayushmann001/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayushmann001/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayushmann001/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
