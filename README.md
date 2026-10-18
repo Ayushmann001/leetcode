@@ -204,6 +204,7 @@
 | [0115-distinct-subsequences](https://github.com/Ayushmann001/leetcode/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Ayushmann001/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Ayushmann001/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Ayushmann001/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Ayushmann001/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayushmann001/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Ayushmann001/leetcode/tree/master/0394-decode-string) |
@@ -253,6 +254,7 @@
 | [0039-combination-sum](https://github.com/Ayushmann001/leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Ayushmann001/leetcode/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/Ayushmann001/leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Ayushmann001/leetcode/tree/master/0257-binary-tree-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -404,6 +406,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushmann001/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ayushmann001/leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Ayushmann001/leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushmann001/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ayushmann001/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -445,6 +448,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushmann001/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ayushmann001/leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Ayushmann001/leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushmann001/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ayushmann001/leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -489,6 +493,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushmann001/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ayushmann001/leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Ayushmann001/leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushmann001/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Ayushmann001/leetcode/tree/master/0450-delete-node-in-a-bst) |
