@@ -211,6 +211,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Ayushmann001/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Ayushmann001/leetcode/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayushmann001/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Ayushmann001/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayushmann001/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ayushmann001/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayushmann001/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -255,6 +256,7 @@
 | [0047-permutations-ii](https://github.com/Ayushmann001/leetcode/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/Ayushmann001/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Ayushmann001/leetcode/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Ayushmann001/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Recursion
 |  |
 | ------- |
@@ -420,6 +422,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Ayushmann001/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ayushmann001/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ayushmann001/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -458,6 +461,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Ayushmann001/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushmann001/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Ayushmann001/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ayushmann001/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ayushmann001/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -504,6 +508,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Ayushmann001/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ayushmann001/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ayushmann001/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
