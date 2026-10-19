@@ -423,6 +423,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ayushmann001/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ayushmann001/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -511,6 +512,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ayushmann001/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ayushmann001/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -539,6 +541,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ayushmann001/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushmann001/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Ayushmann001/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayushmann001/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
