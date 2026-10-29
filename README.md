@@ -129,6 +129,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushmann001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayushmann001/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushmann001/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ayushmann001/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -193,6 +194,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushmann001/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayushmann001/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushmann001/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ayushmann001/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushmann001/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ayushmann001/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Ayushmann001/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -225,6 +227,7 @@
 | [2409-count-days-spent-together](https://github.com/Ayushmann001/leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayushmann001/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ayushmann001/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ayushmann001/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Ayushmann001/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Monotonic Stack
 |  |
@@ -280,6 +283,7 @@
 | [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Ayushmann001/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ayushmann001/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ayushmann001/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -445,6 +449,7 @@
 | [2236-root-equals-sum-of-children](https://github.com/Ayushmann001/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushmann001/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayushmann001/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ayushmann001/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -490,6 +495,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayushmann001/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayushmann001/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayushmann001/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ayushmann001/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -635,4 +641,12 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Ayushmann001/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayushmann001/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ayushmann001/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ayushmann001/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
