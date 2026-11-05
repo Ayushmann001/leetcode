@@ -1,26 +1,19 @@
-#include <vector>
-#include <unordered_set>
-
 class Solution {
 public:
-    bool containsNearbyDuplicate(std::vector<int>& nums, int k) {
-        std::unordered_set<int> set;
-        
-        for (int i = 0; i < nums.size(); ++i) {
-            // Remove the element that is now outside the window
-            if (i > k) {
-                set.erase(nums[i - k - 1]);
+    bool containsNearbyDuplicate(vector<int>& nums, int k) {
+        map<int, int> mp;
+
+        for(int i = 0; i < nums.size(); i++) {
+
+            if(mp.find(nums[i]) != mp.end()) {
+                if(abs(i - mp[nums[i]]) <= k) {
+                    return true;
+                }
             }
-            
-            // Check if the current element exists in the set
-            if (set.count(nums[i])) {
-                return true;
-            }
-            
-            // Add the current element to the set
-            set.insert(nums[i]);
+
+            mp[nums[i]] = i;
         }
-        
+
         return false;
     }
 };
