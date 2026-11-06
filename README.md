@@ -97,6 +97,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayushmann001/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayushmann001/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayushmann001/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2747-count-zero-request-servers](https://github.com/Ayushmann001/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ayushmann001/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushmann001/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushmann001/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -149,6 +150,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayushmann001/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushmann001/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushmann001/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Ayushmann001/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayushmann001/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Merge Sort
 |  |
@@ -197,6 +199,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushmann001/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayushmann001/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushmann001/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Ayushmann001/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ayushmann001/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayushmann001/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushmann001/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -388,6 +391,7 @@
 | [0239-sliding-window-maximum](https://github.com/Ayushmann001/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushmann001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayushmann001/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/Ayushmann001/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayushmann001/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
 |  |
