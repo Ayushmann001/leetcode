@@ -92,6 +92,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ayushmann001/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ayushmann001/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushmann001/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushmann001/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayushmann001/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -115,6 +116,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayushmann001/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/Ayushmann001/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayushmann001/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushmann001/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushmann001/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/Ayushmann001/leetcode/tree/master/0844-backspace-string-compare) |
@@ -144,6 +146,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushmann001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Ayushmann001/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushmann001/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ayushmann001/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayushmann001/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -181,6 +184,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ayushmann001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ayushmann001/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushmann001/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ayushmann001/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushmann001/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -267,6 +271,7 @@
 | [0035-search-insert-position](https://github.com/Ayushmann001/leetcode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/Ayushmann001/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushmann001/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayushmann001/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayushmann001/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
