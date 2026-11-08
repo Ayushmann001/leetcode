@@ -119,6 +119,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ayushmann001/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushmann001/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0832-flipping-an-image](https://github.com/Ayushmann001/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Ayushmann001/leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayushmann001/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -192,6 +193,7 @@
 | [0641-design-circular-deque](https://github.com/Ayushmann001/leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushmann001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Ayushmann001/leetcode/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/Ayushmann001/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Ayushmann001/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ayushmann001/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -301,6 +303,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Ayushmann001/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Ayushmann001/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Ayushmann001/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0832-flipping-an-image](https://github.com/Ayushmann001/leetcode/tree/master/0832-flipping-an-image) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ayushmann001/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ayushmann001/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
@@ -308,6 +311,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Ayushmann001/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Ayushmann001/leetcode/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/Ayushmann001/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Ayushmann001/leetcode/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/Ayushmann001/leetcode/tree/master/1518-water-bottles) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushmann001/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -374,6 +378,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Ayushmann001/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushmann001/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/Ayushmann001/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Ayushmann001/leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Ayushmann001/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayushmann001/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
