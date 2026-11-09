@@ -195,6 +195,7 @@
 | [0739-daily-temperatures](https://github.com/Ayushmann001/leetcode/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Ayushmann001/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Ayushmann001/leetcode/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/Ayushmann001/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Ayushmann001/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushmann001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayushmann001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -313,6 +314,7 @@
 | [0067-add-binary](https://github.com/Ayushmann001/leetcode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Ayushmann001/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Ayushmann001/leetcode/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Ayushmann001/leetcode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/Ayushmann001/leetcode/tree/master/1518-water-bottles) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushmann001/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ayushmann001/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -380,6 +382,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ayushmann001/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/Ayushmann001/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Ayushmann001/leetcode/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/Ayushmann001/leetcode/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Ayushmann001/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayushmann001/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayushmann001/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
