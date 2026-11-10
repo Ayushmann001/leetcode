@@ -39,6 +39,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Ayushmann001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ayushmann001/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/Ayushmann001/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0812-largest-triangle-area](https://github.com/Ayushmann001/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Ayushmann001/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ayushmann001/leetcode/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ayushmann001/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -193,6 +194,7 @@
 | [0641-design-circular-deque](https://github.com/Ayushmann001/leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushmann001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Ayushmann001/leetcode/tree/master/0739-daily-temperatures) |
+| [0812-largest-triangle-area](https://github.com/Ayushmann001/leetcode/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/Ayushmann001/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Ayushmann001/leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Ayushmann001/leetcode/tree/master/0867-transpose-matrix) |
@@ -634,6 +636,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Ayushmann001/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Ayushmann001/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ayushmann001/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
@@ -680,4 +683,8 @@
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ayushmann001/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Ayushmann001/leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
