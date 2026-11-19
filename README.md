@@ -158,6 +158,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayushmann001/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushmann001/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushmann001/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ayushmann001/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Ayushmann001/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayushmann001/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Merge Sort
@@ -213,6 +214,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayushmann001/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayushmann001/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushmann001/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ayushmann001/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Ayushmann001/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ayushmann001/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ayushmann001/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -411,6 +413,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayushmann001/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ayushmann001/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushmann001/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ayushmann001/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ayushmann001/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Ayushmann001/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sliding Window
