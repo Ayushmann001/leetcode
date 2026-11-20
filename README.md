@@ -99,6 +99,7 @@
 | [0496-next-greater-element-i](https://github.com/Ayushmann001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushmann001/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Ayushmann001/leetcode/tree/master/0697-degree-of-an-array) |
+| [0748-shortest-completing-word](https://github.com/Ayushmann001/leetcode/tree/master/0748-shortest-completing-word) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ayushmann001/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayushmann001/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayushmann001/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -199,6 +200,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Ayushmann001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/Ayushmann001/leetcode/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/Ayushmann001/leetcode/tree/master/0739-daily-temperatures) |
+| [0748-shortest-completing-word](https://github.com/Ayushmann001/leetcode/tree/master/0748-shortest-completing-word) |
 | [0812-largest-triangle-area](https://github.com/Ayushmann001/leetcode/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/Ayushmann001/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Ayushmann001/leetcode/tree/master/0835-image-overlap) |
@@ -246,6 +248,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayushmann001/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Ayushmann001/leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushmann001/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0748-shortest-completing-word](https://github.com/Ayushmann001/leetcode/tree/master/0748-shortest-completing-word) |
 | [0844-backspace-string-compare](https://github.com/Ayushmann001/leetcode/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayushmann001/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ayushmann001/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
