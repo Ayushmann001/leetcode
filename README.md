@@ -110,6 +110,7 @@
 | [3331-find-subtree-sizes-after-changes](https://github.com/Ayushmann001/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushmann001/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushmann001/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3934-smallest-unique-subarray](https://github.com/Ayushmann001/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +239,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ayushmann001/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Ayushmann001/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ayushmann001/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Ayushmann001/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -305,6 +307,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayushmann001/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayushmann001/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayushmann001/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/Ayushmann001/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -730,4 +733,16 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ayushmann001/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ayushmann001/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ayushmann001/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ayushmann001/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
