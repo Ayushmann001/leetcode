@@ -49,6 +49,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ayushmann001/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/Ayushmann001/leetcode/tree/master/2409-count-days-spent-together) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ayushmann001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3360-stone-removal-game](https://github.com/Ayushmann001/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ayushmann001/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayushmann001/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ayushmann001/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -346,6 +347,7 @@
 | [1518-water-bottles](https://github.com/Ayushmann001/leetcode/tree/master/1518-water-bottles) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ayushmann001/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayushmann001/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/Ayushmann001/leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ayushmann001/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
