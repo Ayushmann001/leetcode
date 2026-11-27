@@ -241,6 +241,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Ayushmann001/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ayushmann001/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Ayushmann001/leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ayushmann001/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
@@ -371,6 +372,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayushmann001/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ayushmann001/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3665-twisted-mirror-path-count](https://github.com/Ayushmann001/leetcode/tree/master/3665-twisted-mirror-path-count) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ayushmann001/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -434,6 +436,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ayushmann001/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ayushmann001/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Ayushmann001/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ayushmann001/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sliding Window
 |  |
 | ------- |
